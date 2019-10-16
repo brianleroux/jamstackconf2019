@@ -1,0 +1,6 @@
+{
+  "name": "get-000namespace-000module",
+  "dependencies": {
+    "rollup": "^1.23.1"
+  }
+}

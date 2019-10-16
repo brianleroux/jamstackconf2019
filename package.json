@@ -1,0 +1,6 @@
+{
+  "name": "jamstack19",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
