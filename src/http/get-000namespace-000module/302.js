@@ -6,7 +6,7 @@ const exists = require('fs').existsSync
 
 module.exports = async function bundler(file) {
 
-  let base = join(process.cwd(), 'node_modules', '@architect', 'views', 'js')
+  let base = join(process.cwd(), 'node_modules', '@architect', 'views')
   let src = join(base, 'js', file) 
 
   // generate the bundle
